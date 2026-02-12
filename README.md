@@ -196,6 +196,3 @@ The seed script creates:
 Test with user IDs: `user-123`, `user-456`
 Test with order IDs: `ORD-001`, `ORD-002`, `ORD-003`
 
-## License
-
-MIT
